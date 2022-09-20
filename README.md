@@ -5,4 +5,7 @@
 
 Ссылка на Netlify: https://grand-churros-ba1f0e.netlify.app/ (репозиторий https://github.com/CharlyChaplin/sprint1.git)
 
-Ссылка на Netlify: https://grand-churros-ba1f0e.netlify.app/ (репозиторий https://github.com/CharlyChaplin/middle.messenger.praktikum.yandex.git)
+Ссылка на Netlify: https://cool-elf-823a61.netlify.app/ (репозиторий https://github.com/CharlyChaplin/middle.messenger.praktikum.yandex.git)
+
+
+
